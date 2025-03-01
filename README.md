@@ -1,2 +1,2 @@
 # research-hub
-some technical aspects of applied mathematics
+Some technical aspects of applied mathematics
